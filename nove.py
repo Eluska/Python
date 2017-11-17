@@ -1,1 +1,0 @@
-print ("ako sa mas?")
